@@ -15,7 +15,7 @@ Repo que contiene las evidencias del taller 2 End2End Testing desarrollado por:
 
 ## Cypress
 
-Ruta hacia el script final: [simple_spec.js] (https://github.com/japereza/miso4208-taller02-e2e/blob/master/cypress/cypress/integration/simple_spec.js)
+Ruta hacia el script final: [simple_spec.js](https://github.com/japereza/miso4208-taller02-e2e/blob/master/cypress/cypress/integration/simple_spec.js)
 
 ## Protactor
 
