@@ -23,4 +23,4 @@ Ruta hacia las evitencias de instalacion y ejecucion
 
 ## Tabla resumen
 
-Aqui encontrara la [[Tabla resumen]]
+Ruta hacia la [Tabla de resumen](https://github.com/japereza/miso4208-taller02-e2e/wiki/Tabla-de-resumen)
