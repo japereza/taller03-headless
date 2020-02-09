@@ -10,3 +10,17 @@ Repo que contiene las evidencias del taller 2 End2End Testing desarrollado por:
 - [x] Juan Sebastian Sosa
     - Estudiante MISIS - 201425255
     - js.sosa10@uniandes.edu.co
+
+# EVIDENCIAS
+
+## Cypress
+
+Ruta hacia el spript final
+
+## Protactor
+
+Ruta hacia las evitencias de instalacion y ejecucion
+
+## Tabla resumen
+
+Aqui encontrara la [[Tabla resumen]]
