@@ -19,7 +19,7 @@ Ruta hacia el script final: [simple_spec.js](https://github.com/japereza/miso420
 
 ## 2. Protactor
 
-Ruta hacia las evitencias de instalacion y ejecucion
+Ruta hacia las evidencias de instalación y ejecución de Protector: [Evidencias Protactor](https://github.com/japereza/miso4208-taller02-e2e/wiki/Evidencias-Protactor)
 
 ##  5. Tabla resumen
 
