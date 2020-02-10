@@ -23,7 +23,7 @@ Ruta hacia las evidencias de instalación y ejecución de Protector: [Evidencias
 
 ## 3. Pupperter
 
-Ruta hacia las evidencias de instalacion y ejecucion de Pupperter : [Evidencias PlayWright](https://github.com/japereza/miso4208-taller02-e2e/wiki/Evidencias-PlayWright)
+Ruta hacia las evidencias de instalacion y ejecucion de Pupperter : [Evidencias Pupperter](https://github.com/japereza/miso4208-taller02-e2e/wiki/Evidencias-Pupperter)
 
 ## 4. Playwright
 
