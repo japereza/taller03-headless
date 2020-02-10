@@ -21,9 +21,9 @@ Ruta hacia el script final: [simple_spec.js](https://github.com/japereza/miso420
 
 Ruta hacia las evidencias de instalación y ejecución de Protector: [Evidencias Protactor](https://github.com/japereza/miso4208-taller02-e2e/wiki/Evidencias-Protactor)
 
-## 3. Pupperteer
+## 3. Puppeteer
 
-Ruta hacia las evidencias de instalacion y ejecucion de Pupperter : [Evidencias Pupperteer](https://github.com/japereza/miso4208-taller02-e2e/wiki/Evidencias-Pupperteer)
+Ruta hacia las evidencias de instalación y ejecución de Puppeter : [Evidencias Puppeteer](https://github.com/japereza/miso4208-taller02-e2e/wiki/Evidencias-Puppeteer)
 
 ## 4. Playwright
 
