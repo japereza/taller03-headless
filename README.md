@@ -23,13 +23,13 @@ Ruta hacia las evidencias de instalación y ejecución de Protector: [Evidencias
 
 ## 3. Pupperter
 
-
+Ruta hacia las evidencias de instalacion y ejecucion de Pupperter : [Evidencias PlayWright](https://github.com/japereza/miso4208-taller02-e2e/wiki/Evidencias-PlayWright)
 
 ## 4. Playwright
 
 ### Comparacion vs Puppeteer
 
-Ruta hacia las ventajas y desventajas de hacer uso de [PlayWright al ser comparado con Puppeteer]
+Ruta hacia las ventajas y desventajas de hacer uso de [PlayWright al ser comparado con Puppeteer](https://github.com/japereza/miso4208-taller02-e2e/wiki/PlayWright-al-ser-comparado-con-Puppeteer)
 
 ### Tabla resumen
 
