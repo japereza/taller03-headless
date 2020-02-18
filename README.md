@@ -16,12 +16,12 @@ Repo que contiene las evidencias del taller 3 LightHouse - Headless Testing desa
 
 ## 1. Cypress
 
-Ruta hacia el script final: [simple_spec.js](https://github.com/japereza/miso4208-taller02-e2e/blob/master/cypress/cypress/integration/simple_spec.js)
-Se ejecuto
+Se toma lo hecho en el taller 02 y se ejecuta en modo Headless. Esta es la ruta al video que genero ´´´cypress run .´´´
+https://github.com/japereza/taller03-headless/tree/master/cypress/cypress/videos
 
 ## 2. Protactor
 
-Ruta hacia las evidencias de instalación y ejecución de Protector: [Evidencias Protactor](https://github.com/japereza/miso4208-taller02-e2e/wiki/Evidencias-Protactor)
+Se toma lo hecho en el taller 02 y se ejecuta en modo Headless.
 
 ## 3. Puppeteer
 
