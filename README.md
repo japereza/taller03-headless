@@ -1,8 +1,8 @@
 ![](https://raw.github.com/japereza/miso4208-taller02-e2e/master/src/common/images/logo-uniandes.png)
 
-# TALLER 03 LightHouse - Headless Testing
+# TALLER 03 Lighthouse - Headless Testing
 
-Repo que contiene las evidencias del taller 3 LightHouse - Headless Testing desarrollado por:
+Repo que contiene las evidencias del taller 3 Lighthouse - Headless Testing desarrollado por:
 
 - [x] Angela Patricia Anaya Castañeda:
     - Estudiante MATI - 201510682
@@ -29,4 +29,10 @@ https://github.com/japereza/taller03-headless/blob/master/protactor/e2e/protract
 El ejercicio de puppeteer se trabaja de nuevo para mejorar su ejecucion con JEST y se escriben pruebas
 https://github.com/japereza/taller03-headless/tree/master/puppeteer
 
-Por defecto Puppeteer trabaja Headless pero se sube el proyecto seteado para trabajar Headfull como fue el reto del taller:
+Por defecto Puppeteer trabaja Headless pero se sube el proyecto configurado para trabajar Headfull como fue el reto del taller:
+```javascript
+const browser = await puppeteer.launch({
+    headless: false
+  })
+```
+https://github.com/japereza/taller03-headless/blob/master/puppeteer/setup.js
