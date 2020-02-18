@@ -1,21 +1,23 @@
 ![](https://raw.github.com/japereza/miso4208-taller02-e2e/master/src/common/images/logo-uniandes.png)
 
-# TALLER 02 End2End Testing
+# TALLER 03 LightHouse - Headless Testing
 
-Repo que contiene las evidencias del taller 2 End2End Testing desarrollado por:
+Repo que contiene las evidencias del taller 3 LightHouse - Headless Testing desarrollado por:
 
+- [x] Angela Patricia Anaya Castañeda:
+    - Estudiante MATI - 201510682
+    - ap.anaya10@uniandes.edu.co
 - [x] Javier Alexander Perez Arevalo
     - Estudiante MATI - 201811140
     - ja.pereza@uniandes.edu.co
-- [x] Juan Sebastian Sosa
-    - Estudiante MISIS - 201425255
-    - js.sosa10@uniandes.edu.co
+
 
 # EVIDENCIAS
 
 ## 1. Cypress
 
 Ruta hacia el script final: [simple_spec.js](https://github.com/japereza/miso4208-taller02-e2e/blob/master/cypress/cypress/integration/simple_spec.js)
+Se ejecuto
 
 ## 2. Protactor
 
